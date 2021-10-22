@@ -38,11 +38,11 @@
     </ol>
     <hr>
     <h1 style="font-size: 100px;">
-        LeaderBoard 
+        Movie Table 
     </h1>
     
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" alt="">
-    <img src="Screenshot (295).png" alt="">
+    <img src="Screenshot (316).png" alt="">
    
  <h1>My some social media links</h1>
       <p>Linkedin: <a href="https://www.linkedin.com/in/ritu-singh-534002194/" rel="nofollow">https://www.linkedin.com/in/ritu-singh-534002194/</a>
